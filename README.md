@@ -1,25 +1,55 @@
-# Metrotrivia - A Java & Android project
+# Android App Project
+## Variables - Use for coding to avoid checking the layout
+### Activity_main
+`greeting_text_view` - Main text : heading that greets \
+`opening_word_text_view` - Secondary text : short moto \
+\
+`next_button` - Button to start the game \
+`profile_page_button` - Button that leads to profile/leaderboard \
 
-## A school project to learn how to develop an Android application from scratch using Java. 
+### activity_chose_mode
+`chose_mode_text_view` - "Choose mode" text \
+\
+{`easy_button`
+`medium_button`
+`hard_button`} - Buttons for choosing the difficulty \
 
-### This is a team project and my parts are:
-* Design layouts, write XML files
-* Deserialize JSON files
-* Build logic for the whole application, using Java classes, Singleton, ListView with custom BaseAdapter, multiple activities
-* Save user data using Shared Preferences
+## activity_profile_screen
+`textView{3-5}` - Scores for easy difficulty. \
+`textView{7-9}` - Scores for medium difficulty. \
+`textView{11-13}` - Scores for hard difficulty.
 
-### Activities description
-#### activity_main
-An activity where an user can start a game session by moving on to "Choose mode" activity" or check his/her accomplishments
+## activity_the_game
+`answer_{1-4}_button` - buttons for answer variants. \
+`progress_bar` - progress bar \
+`next_button` - button to check the question and move on to the next one. \
 
-#### activity_chose_mode
-An activity where an user can choose the desired mode including Easy, Medium and Hard.
 
-#### activity_the_game
-An activity where an user can play the game. Every game session includes 5 random questions. A question can be either true/false or multiple choice type.
+## Logic for the "next" button in the game activity
+1. Depending on the chosen difficulty, parse a question, right answer and incorrect answers from the json. Add those to the QuestionData class. (Duplicate questions will be eliminated by comparing the question number to the previous one).
+2. Check if the player has answered correctly: \
+if yes --> Light up the button green, update the progress bar and wait 5 seconds. Switch the questions (Step 1)
+   \
+if no --> Light up the button green and make the right one green. Go to step 1.
 
-#### activity_game_end
-An activity where user see their result. If there are less than 3 correct answers, no medal is given. The user will be rewarded with bronze medal - 3 correct answers or silver medal - 4 correct answers or gold medal  - 5 correct answers. From this activity, the user can choose to see their profile or restart a game session
 
-#### activity_profile_screen
-An activity where user can see all the medals that they have acquired.
+## App logic
+Main menu (Main activity) --> Choose mode activity --> Save the choice and pass to next activity --> Start the game with getting the difficulty --> Once answered, make a correct button green and incorrect red --> Go to the last activity.
+
+## Question extraction logic
+Questions to be found in /q/file.json
+
+Each block has variable 'question', 'incorrect_answers' and 'correct_answer'. They all have a number at the end like so:
+```json
+"question34": "Which of the following is a class in the game &quot;Hearthstone&quot;?",
+"correct_answer34": "Priest",
+"incorrect_answers34": [
+          "Sage",
+          "Cleric",
+          "Monk"
+]
+```
+
+1. Generate 5 numbers within 1-50 range (5 questions per game)
+2. Extract results['question[number]'] and results['incorrect_answers[number]'] and so on.
+3. if-statement to check if there are more than one *incorrect_answer*. If so, it is a 4 choice question. If only one - True or False.

@@ -1,0 +1,589 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following was not one of &quot;The Magnificent Seven&quot;?",
+      "correct_answer": "Clint Eastwood",
+      "incorrect_answers": [
+        "Steve McQueen",
+        "Charles Bronson",
+        "Robert Vaughn"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who created the digital distribution platform Steam?",
+      "correct_answer": "Valve",
+      "incorrect_answers": [
+        "Pixeltail Games",
+        "Ubisoft",
+        "Electronic Arts"
+      ]
+    },
+    {
+      "category": "Entertainment: Musicals & Theatres",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which Shakespeare play inspired the musical &#039;West Side Story&#039;?",
+      "correct_answer": "Romeo &amp; Juliet",
+      "incorrect_answers": [
+        "Hamlet",
+        "Macbeth",
+        "Othello"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "&quot;Some people call me the space cowboy&quot; is the first line from what song?",
+      "correct_answer": "The Joker",
+      "incorrect_answers": [
+        "Fandango",
+        "Take The Money and Run",
+        "Fly Like an Eagle"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is the lead singer of Pearl Jam?",
+      "correct_answer": "Eddie Vedder",
+      "incorrect_answers": [
+        "Ozzy Osbourne",
+        "Stone Gossard",
+        "Kurt Cobain"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is Sonic&#039;s sidekick?",
+      "correct_answer": "Tails",
+      "incorrect_answers": [
+        "Shadow",
+        "Amy",
+        "Knuckles"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The Kākāpō is a large, flightless, nocturnal parrot native to which country?",
+      "correct_answer": "New Zealand",
+      "incorrect_answers": [
+        "South Africa",
+        "Australia",
+        "Madagascar"
+      ]
+    },
+    {
+      "category": "Art",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Leonardo da Vinci&#039;s Mona Lisa does not have eyebrows.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which famous spy novelist wrote the childrens&#039; story &quot;Chitty-Chitty-Bang-Bang&quot;?",
+      "correct_answer": "Ian Fleming",
+      "incorrect_answers": [
+        "Joseph Conrad",
+        "John Buchan",
+        "Graham Greene"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "In &quot;Mario Kart 64&quot;, Waluigi is a playable character.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What colour is the circle on the Japanese flag?",
+      "correct_answer": "Red",
+      "incorrect_answers": [
+        "White",
+        "Yellow",
+        "Black"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "This movie contains the quote, &quot;Nobody puts Baby in a corner.&quot;",
+      "correct_answer": "Dirty Dancing",
+      "incorrect_answers": [
+        "Three Men and a Baby",
+        "Ferris Bueller&#039;s Day Off",
+        "Pretty in Pink"
+      ]
+    },
+    {
+      "category": "Entertainment: Cartoon & Animations",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the relationship between Rick and Morty in the show &quot;Rick and Morty&quot;?",
+      "correct_answer": "Grandfather and Grandson",
+      "incorrect_answers": [
+        "Father and Son",
+        "Best Friends",
+        "Crimefighting Partners"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many planets make up our Solar System?",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "7",
+        "9",
+        "6"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:",
+      "correct_answer": "HD Graphics 500",
+      "incorrect_answers": [
+        "HD Graphics 700 ",
+        "HD Graphics 600",
+        "HD Graphics 7000"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which Russian oblast forms a border with Poland?",
+      "correct_answer": "Kaliningrad",
+      "incorrect_answers": [
+        "Samara",
+        "Nizhny Novgorod",
+        "Omsk"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the 15th letter of the Greek alphabet?",
+      "correct_answer": "Omicron (&Omicron;)",
+      "incorrect_answers": [
+        "Sigma (&Sigma;)",
+        "Pi (&Pi;)",
+        "Nu (&Nu;)"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "There are 6 legendary cards in &quot;Clash Royale&quot;.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of these characters in &quot;Stranger Things&quot; has the power of Telekinesis?",
+      "correct_answer": "Eleven",
+      "incorrect_answers": [
+        "Mike",
+        "Lucas",
+        "Karen"
+      ]
+    },
+    {
+      "category": "Politics",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many people are in the U.S. House of Representatives?",
+      "correct_answer": "435",
+      "incorrect_answers": [
+        "260",
+        "415",
+        "50"
+      ]
+    },
+    {
+      "category": "Politics",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Despite being seperated into multiple countries, The Scandinavian countries are unified by all having the same monarch.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Minecraft can be played with a virtual reality headset.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The &quot;Psycho&quot; series of videos on YouTube was created by which of the following?",
+      "correct_answer": "RiDGiD STUDiOS",
+      "incorrect_answers": [
+        "Dan Bell",
+        "Billy Familia",
+        "VeganGainz"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is the leader of Team Instinct in Pok&eacute;mon Go?",
+      "correct_answer": "Spark",
+      "incorrect_answers": [
+        "Candela",
+        "Blanche",
+        "Willow"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the Star Trek universe, what color is Vulcan blood?",
+      "correct_answer": "Green",
+      "incorrect_answers": [
+        "Blue",
+        "Red",
+        "Purple"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In an orchestra, what is the lowest member of the brass family?",
+      "correct_answer": "Tuba",
+      "incorrect_answers": [
+        "Trombone",
+        "Contrabass",
+        "Bassoon"
+      ]
+    },
+    {
+      "category": "Mythology",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The greek god Poseidon was the god of what?",
+      "correct_answer": "The Sea",
+      "incorrect_answers": [
+        "War",
+        "Sun",
+        "Fire"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which Sonic the Hedgehog game was originally supposed to be packaged with Sonic 3, but was cut in half due to time constraints?",
+      "correct_answer": "Sonic &amp; Knuckles",
+      "incorrect_answers": [
+        "Sonic 2",
+        "Sonic CD",
+        "Sonic 3D Blast"
+      ]
+    },
+    {
+      "category": "Celebrities",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Gwyneth Paltrow has a daughter named...?",
+      "correct_answer": "Apple",
+      "incorrect_answers": [
+        "Lily",
+        "French",
+        "Dakota"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "According to a song by Belinda Carlisle, Heaven is a place on what?",
+      "correct_answer": "Earth",
+      "incorrect_answers": [
+        "Venus",
+        "Mars",
+        "Uranus"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which Nirvana album had a naked baby on the cover?",
+      "correct_answer": "Nevermind",
+      "incorrect_answers": [
+        "Bleach",
+        "In Utero",
+        "Incesticide"
+      ]
+    },
+    {
+      "category": "Mythology",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In most traditions, who was the wife of Zeus?",
+      "correct_answer": "Hera",
+      "incorrect_answers": [
+        "Aphrodite",
+        "Athena",
+        "Hestia"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which restaurant&#039;s mascot is a clown?",
+      "correct_answer": "McDonald&#039;s",
+      "incorrect_answers": [
+        "Whataburger",
+        "Burger King",
+        "Sonic"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "&quot;Minecraft&quot; was released from beta in 2011 during a convention held in which city?",
+      "correct_answer": "Las Vegas",
+      "incorrect_answers": [
+        "Paris",
+        "Bellevue",
+        "London"
+      ]
+    },
+    {
+      "category": "Science: Gadgets",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "When was the iPhone released?",
+      "correct_answer": "2007",
+      "incorrect_answers": [
+        "2005",
+        "2006",
+        "2004"
+      ]
+    },
+    {
+      "category": "Celebrities",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Tupac Shakur died due to complications from being stabbed in 1996.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In &quot;To Love-Ru&quot;, Ren and Run are from what planet?",
+      "correct_answer": "Memorze",
+      "incorrect_answers": [
+        "Deviluke",
+        "Mistletoe",
+        "Okiwana"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The band Muse released their first album, Showbiz, in what year?",
+      "correct_answer": "1999",
+      "incorrect_answers": [
+        "1998",
+        "2000",
+        "2001"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Nova Scotia is on the east coast of Canada.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "&quot;Foodfight!&quot; earned less than $80,000 at box office.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the historical name of Sri Lanka?",
+      "correct_answer": "Ceylon",
+      "incorrect_answers": [
+        "Myanmar",
+        "Colombo",
+        "Badulla"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In 1453, which important city fell?",
+      "correct_answer": "Constantinople",
+      "incorrect_answers": [
+        "Rome",
+        "Hamburg",
+        "Athens"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is Cynophobia the fear of?",
+      "correct_answer": "Dogs",
+      "incorrect_answers": [
+        "Birds",
+        "Flying",
+        "Germs"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "If you are caught &quot;Goldbricking&quot;, what are you doing wrong?",
+      "correct_answer": "Slacking",
+      "incorrect_answers": [
+        "Smoking",
+        "Stealing",
+        "Cheating"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which Nintendo 64 game did NOT have Luigi in it?",
+      "correct_answer": "Super Mario 64",
+      "incorrect_answers": [
+        "Mario Party 2",
+        "Paper Mario",
+        "Super Smash Bros."
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of the talking cat in Persona 5?",
+      "correct_answer": "Morgana",
+      "incorrect_answers": [
+        "Teddie",
+        "Marie",
+        "Ryuji"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the game &quot;Fire Emblem: Shadow Dragon&quot;, what is the central protagonist&#039;s name?",
+      "correct_answer": "Marth",
+      "incorrect_answers": [
+        "Roy",
+        "Eliwood",
+        "Robin"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following is a class in the game &quot;Hearthstone&quot;?",
+      "correct_answer": "Priest",
+      "incorrect_answers": [
+        "Sage",
+        "Cleric",
+        "Monk"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In Final Fantasy XIV, what is the name of the Deep Dungeon that was introduced in the expansion pack, Heavensward?",
+      "correct_answer": "Palace of the Dead",
+      "incorrect_answers": [
+        "Heaven on High",
+        "Aetherochemical Research Facility",
+        "Sunken Temple of Qarn"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The 1996 film &#039;Fargo&#039; is primarily set in which US state?",
+      "correct_answer": "Minnesota",
+      "incorrect_answers": [
+        "North Dakota",
+        "South Dakota",
+        "Wisconsin"
+      ]
+    }
+  ]
+}

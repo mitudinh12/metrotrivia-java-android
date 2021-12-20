@@ -16,4 +16,6 @@
     <color name="orange_monochromatic_2">#F2996F</color>
     <color name="orange_monochromatic_3">#704734</color>
     <color name="orange_monochromatic_4">#F2A563</color>
+    <color name="green">#72F765</color>
+    <color name="red">#FF1801</color>
 </resources>
