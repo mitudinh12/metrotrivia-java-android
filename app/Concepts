@@ -1,0 +1,7 @@
+On correct Answer the screen is filled with confetti (animations)
+Incorrect answer flashes red and correct answer becomes green 
+Multiple trivia categories (possible category with all questions unlocked after 4/5 on all solo categories)
+Start screen with category choice and text field for name
+Leaderboard (category specific?)
+Life lines (50/50 or some sort of shield [Protects from a single wrong answer?])
+Generate a progress graph containing 10 last scores. (Shows progress)
