@@ -1,5 +1,4 @@
-# metrotrivia-java-android-project
-A school project to learn how to develop an Android application from scratch using Java
+# Metrotrivia - A Java & Android project
 <p float="center">
   <img src="screenshots/main-activity.png" width="150">
   <img src="screenshots/chose-mode-activity.png" width="150">
@@ -7,8 +6,6 @@ A school project to learn how to develop an Android application from scratch usi
   <img src="screenshots/game-end-activity.png" width="150">
   <img src="screenshots/profile-screen.png" width="150">
 </p>
-
-# Metrotrivia - A Java & Android project
 
 ## A school project to learn how to develop an Android application from scratch using Java. 
 
